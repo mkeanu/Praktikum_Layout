@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PraktikumLayout</string>
+    <string name="txt_nama_belakang">nama_belakang</string>
+    <string name="txt_proses">proses</string>
+    <string name="txt_password_confirm">password confirm</string>
+    <string name="txt_password">password</string>
+    <string name="txt_nomor_telepon">nomor_telepon</string>
+    <string name="txt_alamat_email">alamat_email</string>
+    <string name="txt_nama_depan">nama_depan</string>
+    <string name="tv_formulir">Formulir</string>
+</resources>
